@@ -3,7 +3,7 @@
 #include <fstream>
 #include <cstdlib> //pang randomize ng number at pang clear screen
 #include <ctime> //nag iiba yung time kada run, nagagamit to sa loan cd at car rng
-#include <thread> //lahat ng task nagana kahit saang part ka pumunta like loan cd, racing rng, sabay sabay sila
+#include <thread> //sleep_for
 #include <chrono> //pang milliseconds
 #include <limits> //nag lilimit sa mga value
 using namespace std;
